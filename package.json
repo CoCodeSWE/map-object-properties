@@ -1,0 +1,24 @@
+{
+  "name": "map-object-properties",
+  "version": "0.0.1",
+  "description": "a node module that allows to change the name of obecjs' properties",
+  "main": "map-object-properties.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoCodeSWE/map-object-properties.git"
+  },
+  "keywords": [
+    "object",
+    "map",
+    "module"
+  ],
+  "author": "sime1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoCodeSWE/map-object-properties/issues"
+  },
+  "homepage": "https://github.com/CoCodeSWE/map-object-properties#readme"
+}
